@@ -235,6 +235,7 @@ Fixes:
 -   Added the following to .gitignore:
 ```
 *.class
+student_report.csv
 ```
 -   Deleted old .class files to avoid confusion with outdated compiled versions.
 -   Recompiled freshly before every commit.
