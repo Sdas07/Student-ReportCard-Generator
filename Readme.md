@@ -202,7 +202,9 @@ Common Causes:
 - Ensured MySQL service was running (mysql --version to confirm).
 - Checked that the password used in code matched the real MySQL credentials:
 ```
-  your_username_here / your_password_here
+  your_username_here  // Replace with your actual MySQL username  
+your_password_here  // Replace with your actual MySQL password
+
 ```
 🔧 2. CSV Export Not Working
 - Problem: Clicking the "Export CSV" button showed no result or failed silently.
